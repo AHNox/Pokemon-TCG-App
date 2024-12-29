@@ -12,7 +12,7 @@ export default function Home() {
           height={38}
           priority
         />
-        <div>Hi, this is Adam's page.</div>
+        <div>{'Hi, this is Adam\'s page.'}</div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
